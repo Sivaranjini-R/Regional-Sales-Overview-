@@ -24,10 +24,10 @@ The dashboard features a **Field Parameter toggle** to switch between key metric
 - Quantity
 
 ### Dashboard Preview
+![Image](https://github.com/user-attachments/assets/51023dbd-70d6-4f8e-a593-103933af69d8)
 
 
-
-Quantity is selected for the year 2022,other selections such as Sales/Profit can be made to view the performance of that Field in the Same Page. It gives users flexibility to view insights from multiple business angles in a single page without clutter.
+Here, Quantity is selected for the year 2022, other selections such as Sales/Profit can be made to view the performance of that Field in the Same Page. It gives users flexibility to view insights from multiple business angles in a single page without clutter.
 
 ### Yearly Filter (Slicer)
 
