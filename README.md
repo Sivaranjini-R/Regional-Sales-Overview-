@@ -8,9 +8,9 @@ This Power BI dashboard provides an insightful analysis of sales performance by 
 
 ### KPI Metrics
 
-- Total Sales
-- Total Quantity Sold
-- Total Profit
+✔️Total Sales
+✔️Total Quantity Sold
+✔️Total Profit
 
 These metrics provide a snapshot of overall business performance across different regions.
 
@@ -18,14 +18,15 @@ These metrics provide a snapshot of overall business performance across differen
 
 ### Dynamic Metric Selection
 
-The dashboard features a **Field Parameter toggle** to switch between key metrics:
-- Sales
-- Profit
-- Quantity
+The dashboard features a Field Parameter toggle to switch between key metrics:
+
+➡️ Sales  
+➡️ Profit  
+➡️ Quantity
+
 ---
 ### Dashboard Preview
 ![Image](https://github.com/user-attachments/assets/51023dbd-70d6-4f8e-a593-103933af69d8)
-
 
 Here, Quantity is selected for the year 2022, other selections such as Sales/Profit can be made to view the performance of that Field in the Same Page. It gives users flexibility to view insights from multiple business angles in a single page without clutter.
 
@@ -39,25 +40,17 @@ The dashboard includes a **Yearly filter (2021 – 2024)** that dynamically upda
 
 ### Monthly Trends
 
-- **Bar charts** display month-wise performance of each Region for:
-  - Sales
-  - Quantity
-  - Profit
+**Bar charts** display month-wise performance of each Region for the Sales,Quantity and Profit with a line denoting the average.
  
 ---
 
 ### Geographic Visualization
 
-- An **interactive map** shows sales performance by **States** , Quickly identifying regional hotspots, sales clusters, and underperforming areas.
+An **interactive map** shows sales performance by **States** , Quickly identifying regional hotspots through the size of the bubble ,sales clusters, and underperforming areas.
 
 ---
 
 ### Year-over-Year (YoY) Comparison Matrix
 
-- A detailed matrix displays YoY changes for:
-  - Sales
-  - Quantity
-  - Profit
-
-It tracks progress to set realistic targets based on historical performance.
+A detailed **matrix** displays Year over Year changes in Sales,Quantity and Profit for each Region to track the progress for setting realistic targets based on historical performance.
 
