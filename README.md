@@ -22,16 +22,20 @@ The dashboard features a **Field Parameter toggle** to switch between key metric
 - Sales
 - Profit
 - Quantity
-
+---
 ### Dashboard Preview
 ![Image](https://github.com/user-attachments/assets/51023dbd-70d6-4f8e-a593-103933af69d8)
 
 
 Here, Quantity is selected for the year 2022, other selections such as Sales/Profit can be made to view the performance of that Field in the Same Page. It gives users flexibility to view insights from multiple business angles in a single page without clutter.
 
+---
+
 ### Yearly Filter (Slicer)
 
 The dashboard includes a **Yearly filter (2021 – 2024)** that dynamically updates all visuals based on the selected year to compare year-specific performance and analyze growth or decline over time.
+
+---
 
 ### Monthly Trends
 
@@ -39,6 +43,8 @@ The dashboard includes a **Yearly filter (2021 – 2024)** that dynamically upda
   - Sales
   - Quantity
   - Profit
+ 
+---
 
 ### Geographic Visualization
 
